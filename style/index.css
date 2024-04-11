@@ -1,3 +1,25 @@
 header nav{
     background-color: #6EB3D0;
 }
+
+.bg-bluePersonal{
+    background-color: #6EB3D0;
+    text-align: center;
+}
+
+.bg-bluePersonal :hover{
+    background-color: #003146;
+    color: #f0f8ff;
+}
+
+.btn-rosa{
+    background-color: #F7B6D2;
+    color: white;
+}
+#adote{
+   color:  #F7B6D2;
+}
+
+#mensagem{
+    color: #6EB3D0;
+}
